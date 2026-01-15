@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Segoe UI", Roboto, sans-serif;
+  margin: 0;
+  background: #fcf8d8;
+  color: #000000;
+}
+header {
+  background: linear-gradient(120deg, #f39cd9, #f39cd9);
+  color: #ffffff;
+  padding: 60px 20px;
+  text-align: center;
+}
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+section {
+  background: #fff;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+}
+section h2 {
+  margin-top: 0;
+  color: #74c5fc;
+}
+footer {
+  padding: 24px;
+  text-align: center;
+  background: #70db82;
+  font-size: 0.9rem;
+}
